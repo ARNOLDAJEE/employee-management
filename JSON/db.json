@@ -1,0 +1,312 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "JHON",
+      "role": "Developer",
+      "email": "jhon@123",
+      "phone": "12345335"
+    },
+    {
+      "id": 2,
+      "name": "sam",
+      "role": "Support Team",
+      "email": "sam@123",
+      "phone": "12435436"
+    },
+    {
+      "id": 3,
+      "name": "cena",
+      "role": "Manager",
+      "email": "cena@123",
+      "phone": "123455536"
+    },
+    {
+      "id": 4,
+      "name": "jam",
+      "role": "Support Team",
+      "email": "jam@334",
+      "phone": "125236346"
+    },
+    {
+      "id": 5,
+      "name": "jim",
+      "role": "Manager",
+      "email": "jim@123",
+      "phone": "11243254"
+    },
+    {
+      "id": 6,
+      "name": "kim",
+      "role": "Senior Developer",
+      "email": "kim@124",
+      "phone": "24325436"
+    },
+    {
+      "id": 7,
+      "name": "tim",
+      "role": "Senior Developer",
+      "email": "tim@111",
+      "phone": "243215"
+    },
+    {
+      "id": 8,
+      "name": "rim",
+      "role": "Manager",
+      "email": "rim@156",
+      "phone": "1325235"
+    },
+    {
+      "id": 9,
+      "name": "vasi",
+      "role": "Support Team",
+      "email": "vasi@444",
+      "phone": "120127"
+    },
+    {
+      "id": 10,
+      "name": "hit",
+      "role": "Developer",
+      "email": "hit@111",
+      "phone": "456789"
+    },
+    {
+      "id": 11,
+      "name": "jet",
+      "role": "Developer",
+      "email": "jet@1234",
+      "phone": "2354656"
+    },
+    {
+      "id": 12,
+      "name": "cena",
+      "role": "Support Team",
+      "email": "cena@666",
+      "phone": "123526"
+    },
+    {
+      "id": 13,
+      "name": "james",
+      "role": "Senior Developer",
+      "email": "jam@123",
+      "phone": "36465"
+    },
+    {
+      "id": 14,
+      "name": "josh",
+      "role": "Manager",
+      "email": "jj@123",
+      "phone": "464758"
+    },
+    {
+      "id": 15,
+      "name": "fun",
+      "role": "Manager",
+      "email": "fun@2133",
+      "phone": "573688"
+    },
+    {
+      "id": 16,
+      "name": "gun",
+      "role": "Manager",
+      "email": "gun@135",
+      "phone": "143315"
+    },
+    {
+      "id": 17,
+      "name": "raja",
+      "role": "Support Team",
+      "email": "raj@1334",
+      "phone": "341353"
+    },
+    {
+      "id": 18,
+      "name": "tik",
+      "role": "Support Team",
+      "email": "tik@131",
+      "phone": "23512"
+    },
+    {
+      "id": 19,
+      "name": "gas",
+      "role": "Manager",
+      "email": "gas@124",
+      "phone": "321235"
+    },
+    {
+      "id": 20,
+      "name": "studio",
+      "role": "Support Team",
+      "email": "studio@sr",
+      "phone": "135253"
+    },
+    {
+      "id": 21,
+      "name": "",
+      "role": "",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "id": 22,
+      "name": "hhh",
+      "role": "Support Team",
+      "email": "@ewrwt",
+      "phone": "wetwqtt"
+    },
+    {
+      "id": 23,
+      "name": "dgfh",
+      "role": "Support Team",
+      "email": "hsdh",
+      "phone": "dshsd"
+    },
+    {
+      "id": 24,
+      "name": "",
+      "role": "",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "id": 25,
+      "name": "erye",
+      "role": "Support Team",
+      "email": "ery",
+      "phone": "eryeyr"
+    },
+    {
+      "id": 26,
+      "name": "",
+      "role": "",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "id": 27,
+      "name": "",
+      "role": "",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "id": 28,
+      "name": "dfsh",
+      "role": "Support Team",
+      "email": "dsfhsd",
+      "phone": "dsfhdj"
+    },
+    {
+      "id": 29,
+      "name": "hah",
+      "role": "Support Team",
+      "email": "ash",
+      "phone": "sa"
+    },
+    {
+      "id": 30,
+      "name": "",
+      "role": "",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "id": 31,
+      "name": "",
+      "role": "",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "id": 32,
+      "name": "",
+      "role": "",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "id": 33,
+      "name": "fgs",
+      "role": "Support Team",
+      "email": "dsfg",
+      "phone": "ssah"
+    },
+    {
+      "id": 34,
+      "name": "",
+      "role": "",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "id": 35,
+      "name": "",
+      "role": "",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "id": 36,
+      "name": "",
+      "role": "",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "id": 37,
+      "name": "dsfh",
+      "role": "Manager",
+      "email": "sfhsfh",
+      "phone": "sahahf"
+    },
+    {
+      "id": 38,
+      "name": "adag",
+      "role": "Support Team",
+      "email": "dsadg",
+      "phone": "sdgdsa"
+    },
+    {
+      "id": 39,
+      "name": "jack",
+      "role": "Senior Developer",
+      "email": "jack@123",
+      "phone": "34144"
+    },
+    {
+      "id": 40,
+      "name": "fafs",
+      "role": "Developer",
+      "email": "sdag",
+      "phone": "asga"
+    },
+    {
+      "id": 41,
+      "name": "dsag",
+      "role": "Support Team",
+      "email": "sdg",
+      "phone": "sag"
+    },
+    {
+      "id": 42,
+      "name": "tai",
+      "role": "Support Team",
+      "email": "tai@123",
+      "phone": "14351"
+    },
+    {
+      "id": 43,
+      "name": "sky",
+      "role": "Manager",
+      "email": "sky@124",
+      "phone": "21353532"
+    },
+    {
+      "id": 44,
+      "name": "sky high",
+      "role": "Manager",
+      "email": "hihi@13525",
+      "phone": "eqtqwt"
+    }
+  ]
+}
